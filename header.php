@@ -19,7 +19,7 @@ session_start();
         <div id="menu">
             <a class="item" href="/forum/index.php">Home</a> -
             <a class="item" href="/forum/create_topic.php">Create a topic</a> -
-            <a class="item" href="/forum/create_cat.php">Create a category</a> -
+            <a class="item" href="/forum/create_cat.php">Create a category</a>
             <a class="item" href="../hub/hub.html">Go Back To The Hub</a>
             <div id="userbar">
             <?php

@@ -66,7 +66,7 @@ else
         if(!$result)
 		{
 			echo 'Something went wrong while registering. Please try again later.';
-			//echo mysql_error(); //funkcja w celach diagnostycznych, nie ruszac jak nie trzeba
+			//echo mysql_error(); //wypisuje błedy w programie, odkomenuj żeby je wyświetliło
 		}
 		else
 		{
